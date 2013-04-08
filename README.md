@@ -3,8 +3,6 @@
 twitter-text-js-rails is a simple wrapper for the
 [twitter-text-js](https://github.com/twitter/twitter-text-js) library for use in Rails 3.1 and later.
 
-TODO: Automatic minification in production
-
 ## Usage
 
 Add the following to your gemfile:
