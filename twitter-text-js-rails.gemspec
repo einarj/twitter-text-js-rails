@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
 	s.authors		= ["Einar Jonsson"]
 	s.email			= 'einar@codelette.com'
 	s.files			= Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
-	s.homepage    	= 'https://github.com/einarj/twitter-rails-js-rails/'
+	s.homepage    	= 'https://github.com/einarj/twitter-text-js-rails/'
 end
