@@ -11,7 +11,7 @@ Add the following to your gemfile:
 
 Add the following directive to your Javascript manifest file (application.js):
 
-    //= require twitter-text-js
+    //= require twitter-text
 
 ## Versioning
 We will attempt to mirror the versioning of twitter-text-js to the best
