@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/twitter-text-js-rails.svg)](http://badge.fury.io/rb/twitter-text-js-rails)
+
 # twitter-text-js-rails
 
 twitter-text-js-rails is a simple wrapper for the
